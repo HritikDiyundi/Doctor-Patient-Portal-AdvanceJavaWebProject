@@ -65,8 +65,5 @@ Some Screenshots of this project are given below
 ![4 4 User view appointment](https://user-images.githubusercontent.com/91146041/205283053-6b00959a-a2b1-4285-a040-67e7c1bcbe2c.png)
 
 
-# Have a nice day 
-
-# Thank you for visiting my profile.
 
 
